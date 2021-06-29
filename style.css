@@ -479,7 +479,9 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 20px!important;
+    padding-left: 10px;
+    margin-left: 15px;
 }
 
 .icon-lg {
@@ -706,7 +708,6 @@ p {
 }
 
 .social {
-    max-width: 400px;
     margin: 20px auto 20px auto;
 }
 
@@ -796,7 +797,6 @@ form{
 label{
     font-weight: 600;
 }
-
 .last-form{
     margin-top: 20px;
 }
